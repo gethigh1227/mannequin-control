@@ -1,4 +1,4 @@
-package dev.erudites.mods.template.client;
+package io.github.gethigh1227.mc.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

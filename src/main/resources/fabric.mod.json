@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "id": "template",
+  "id": "mannequin_control",
   "version": "${version}",
-  "name": "Template",
-  "description": "description",
+  "name": "Mannequin Control",
+  "description": "마크 스킨 입힌 마네킹을 제어하는 모드",
   "authors": [
-    "Erudites"
+    "gethigh1227"
   ],
   "license": "All rights reserved",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "dev.erudites.mods.template.client.TemplateClientMod"
+      "io.github.gethigh1227.mc.client.TemplateClientMod"
     ],
     "main": [
-      "dev.erudites.mods.template.TemplateMod"
+      "io.github.gethigh1227.mc.TemplateMod"
     ]
   },
   "mixins": [
-    "template.mixins.json"
+    "mannequin-control.mixins.json"
   ],
   "depends": {
     "java": ">=25",

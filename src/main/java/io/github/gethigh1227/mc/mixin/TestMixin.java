@@ -1,6 +1,6 @@
-package dev.erudites.mods.template.mixin;
+package io.github.gethigh1227.mc.mixin;
 
-import dev.erudites.mods.template.TemplateMod;
+import io.github.gethigh1227.mc.TemplateMod;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

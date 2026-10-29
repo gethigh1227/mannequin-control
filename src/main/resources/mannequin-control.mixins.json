@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "dev.erudites.mods.template.mixin",
+  "package": "io.github.gethigh1227.mc.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [],
   "client": [],

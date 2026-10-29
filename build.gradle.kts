@@ -10,11 +10,11 @@ object BuildConfig {
     // https://semver.org/
     var MOD_VERSION: String = "0.1.0"
 
-    val MOD_ID: String = "template"
-    val MOD_NAME: String = "Template"
-    val GROUP: String = "dev.erudites"
+    val MOD_ID: String = "mannequin-control"
+    val MOD_NAME: String = "Mannequin Control"
+    val GROUP: String = "io.github.gethigh1227"
 
-    val GITHUB_REPOSITORY: String = "erudites-dev/fabric-mod-template"
+    val GITHUB_REPOSITORY: String = "gethigh1227/mannequin-control"
     val MODRINTH_PROJECT_ID: String = ""
     val CURSEFORGE_PROJECT_ID: String = ""
 

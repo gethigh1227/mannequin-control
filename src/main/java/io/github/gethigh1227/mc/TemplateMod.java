@@ -1,4 +1,4 @@
-package dev.erudites.mods.template;
+package io.github.gethigh1227.mc;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.resources.Identifier;
@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 public class TemplateMod implements ModInitializer {
 
-    public static final String MODID = "template";
+    public static final String MODID = "mannequin-control";
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     @Override
